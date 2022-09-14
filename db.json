@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "HTML, CSS & JS",
+      "author": "Nitin Khurana"
+    },
+    {
+      "id": 2,
+      "title": "DevSetup",
+      "author": "Dibesh Raj Subedi"
+    }
+  ]
+}
